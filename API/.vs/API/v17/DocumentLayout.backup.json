@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\API\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ITI\\API\\API\\Day01\\Migrations\\20250328194027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day01\\Migrations\\20250328194027_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|d:\\iti\\api\\api\\day01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|solutionrelative:day01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|d:\\iti\\api\\api\\day01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|solutionrelative:day01\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|d:\\iti\\api\\api\\day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|solutionrelative:day01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|d:\\iti\\api\\api\\day01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0DFBDC-A2A8-4FC2-9F85-8156C2231076}|Day01\\Day01.csproj|solutionrelative:day01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250328194027_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\API\\Day01\\Migrations\\20250328194027_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Day01\\Migrations\\20250328194027_InitialCreate.cs",
+              "ToolTip": "D:\\ITI\\API\\API\\Day01\\Migrations\\20250328194027_InitialCreate.cs",
+              "RelativeToolTip": "Day01\\Migrations\\20250328194027_InitialCreate.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAQwBQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:40:27.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\API\\Day01\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day01\\Models\\Student.cs",
+              "ToolTip": "D:\\ITI\\API\\API\\Day01\\Models\\Student.cs",
+              "RelativeToolTip": "Day01\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T19:34:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\API\\Day01\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Day01\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\ITI\\API\\API\\Day01\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Day01\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T13:07:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\API\\Day01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day01\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ITI\\API\\API\\Day01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day01\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:37:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\API\\API\\Day01\\Program.cs",
+              "RelativeDocumentMoniker": "Day01\\Program.cs",
+              "ToolTip": "D:\\ITI\\API\\API\\Day01\\Program.cs",
+              "RelativeToolTip": "Day01\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAACcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:27:53.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

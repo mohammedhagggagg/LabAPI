@@ -1,0 +1,10 @@
+@Day01_HostAddress = https://localhost:7224
+
+GET {{Day01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Day01_HostAddress}}/api/student
+
+###
